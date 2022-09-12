@@ -1,0 +1,21 @@
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Debug\com.etoile.ws.borlette.interfaces.dll
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Debug\com.etoile.ws.borlette.interfaces.pdb
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Debug\ResolveAssemblyReference.cache
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Debug\com.etoile.ws.borlette.interfaces.dll
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Debug\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Debug\com.etoile.ws.borlette.dll.domaine.dll
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Debug\com.etoile.ws.borlette.dll.domaine.pdb
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Debug\com.etoile.ws.borlette.interfaces.dll
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Debug\com.etoile.ws.borlette.interfaces.pdb
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Debug\com.etoile.ws.borlette.dll.domaine.pdb
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Debug\com.etoile.ws.borlette.interfaces.csprojResolveAssemblyReference.cache
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Debug\com.etoile.ws.borlette.interfaces.dll
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Debug\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Debug\com.etoile.ws.borlette.interfaces.dll
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Debug\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Debug\com.etoile.ws.borlette.dll.domaine.pdb
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Debug\com.etoile.ws.borlette.interfaces.dll
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Debug\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Debug\com.etoile.ws.borlette.interfaces.csproj.AssemblyReference.cache
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Debug\com.etoile.ws.borlette.interfaces.csproj.CoreCompileInputs.cache
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Debug\com.etoile.ws.borlette.interfaces.csproj.CopyComplete

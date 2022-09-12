@@ -1,0 +1,38 @@
+C:\Users\ED\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.interfaces.dll
+C:\Users\ED\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\ED\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.domaine.dll
+C:\Users\ED\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.domaine.pdb
+C:\Users\ED\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Release\com.etoile.ws.borlette.interfaces.dll
+C:\Users\ED\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Release\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Release\ResolveAssemblyReference.cache
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Release\com.etoile.ws.borlette.interfaces.dll
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Release\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.interfaces.dll
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.dll.domaine.dll
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.dll.domaine.pdb
+C:\Users\ED\Desktop\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.interfaces.dll
+C:\Users\ED\Desktop\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\ED\Desktop\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Release\com.etoile.ws.borlette.interfaces.dll
+C:\Users\ED\Desktop\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Release\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.interfaces.dll
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.dll.domaine.dll
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.dll.domaine.pdb
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Release\ResolveAssemblyReference.cache
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Release\com.etoile.ws.borlette.interfaces.dll
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Release\com.etoile.ws.borlette.interfaces.pdb
+E:\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.interfaces.dll
+E:\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.interfaces.pdb
+E:\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.dll.domaine.pdb
+E:\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Release\com.etoile.ws.borlette.interfaces.csprojResolveAssemblyReference.cache
+E:\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Release\com.etoile.ws.borlette.interfaces.dll
+E:\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Release\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.interfaces.dll
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Release\com.etoile.ws.borlette.dll.domaine.pdb
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Release\com.etoile.ws.borlette.interfaces.dll
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Release\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Release\com.etoile.ws.borlette.interfaces.csproj.AssemblyReference.cache
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Release\com.etoile.ws.borlette.interfaces.csproj.CoreCompileInputs.cache
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Release\com.etoile.ws.borlette.interfaces.csproj.CopyComplete

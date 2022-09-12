@@ -1,0 +1,5 @@
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.domaine\bin\Release\com.etoile.ws.borlette.domaine.dll
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.domaine\bin\Release\com.etoile.ws.borlette.domaine.pdb
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.domaine\obj\Release\ResolveAssemblyReference.cache
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.domaine\obj\Release\com.etoile.ws.borlette.domaine.dll
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.domaine\obj\Release\com.etoile.ws.borlette.domaine.pdb

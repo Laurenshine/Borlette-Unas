@@ -1,0 +1,24 @@
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\bin\Debug\com.etoile.ws.borlette.dal.dll
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\bin\Debug\com.etoile.ws.borlette.dal.pdb
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\obj\Debug\ResolveAssemblyReference.cache
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\obj\Debug\com.etoile.ws.borlette.dal.dll
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\obj\Debug\com.etoile.ws.borlette.dal.pdb
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\bin\Debug\com.etoile.ws.borlette.dal.dll.config
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\bin\Debug\com.etoile.ws.borlette.dll.domaine.dll
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\bin\Debug\com.etoile.ws.borlette.dll.domaine.pdb
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\bin\Debug\com.etoile.ws.borlette.dal.dll.config
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\bin\Debug\com.etoile.ws.borlette.dal.dll
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\bin\Debug\com.etoile.ws.borlette.dal.pdb
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\bin\Debug\com.etoile.ws.borlette.dll.domaine.pdb
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\obj\Debug\com.etoile.ws.borlette.dal.csprojResolveAssemblyReference.cache
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\obj\Debug\com.etoile.ws.borlette.dal.dll
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\obj\Debug\com.etoile.ws.borlette.dal.pdb
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\bin\Debug\com.etoile.ws.borlette.dal.dll.config
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\bin\Debug\com.etoile.ws.borlette.dal.dll
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\bin\Debug\com.etoile.ws.borlette.dal.pdb
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\bin\Debug\com.etoile.ws.borlette.dll.domaine.pdb
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\obj\Debug\com.etoile.ws.borlette.dal.dll
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\obj\Debug\com.etoile.ws.borlette.dal.pdb
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\obj\Debug\com.etoile.ws.borlette.dal.csproj.AssemblyReference.cache
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\obj\Debug\com.etoile.ws.borlette.dal.csproj.CoreCompileInputs.cache
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.dal\obj\Debug\com.etoile.ws.borlette.dal.csproj.CopyComplete

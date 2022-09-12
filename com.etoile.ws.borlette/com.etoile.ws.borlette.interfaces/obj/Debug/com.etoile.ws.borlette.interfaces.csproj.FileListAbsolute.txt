@@ -1,0 +1,7 @@
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Debug\com.etoile.ws.borlette.interfaces.dll
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Debug\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Debug\com.etoile.ws.borlette.dll.domaine.dll
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\bin\Debug\com.etoile.ws.borlette.dll.domaine.pdb
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Debug\com.etoile.ws.borlette.interfaces.dll
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.interfaces\obj\Debug\com.etoile.ws.borlette.interfaces.pdb

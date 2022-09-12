@@ -1,0 +1,54 @@
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.server.exe
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.server.pdb
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.application.dll
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.interfaces.dll
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.dal.dll
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.application.pdb
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.interfaces.pdb
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.dal.pdb
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.Form1.resources
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.Properties.Resources.resources
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.exe
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.pdb
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.dll.domaine.dll
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.dll.domaine.pdb
+D:\Ed documents\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.exe
+D:\Ed documents\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.pdb
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.exe
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.pdb
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.server.exe
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.server.pdb
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.application.dll
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.interfaces.dll
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.dal.dll
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.application.pdb
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.interfaces.pdb
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.dll.domaine.pdb
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.dal.pdb
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.csprojResolveAssemblyReference.cache
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.Form1.resources
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.Properties.Resources.resources
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.csproj.GenerateResource.Cache
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.exe
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.pdb
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.server.exe
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.server.pdb
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.application.dll
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.interfaces.dll
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.dal.dll
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.application.pdb
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.dll.domaine.pdb
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.dal.pdb
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.Form1.resources
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.Properties.Resources.resources
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.csproj.GenerateResource.Cache
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Debug\com.etoile.ws.borlette.dal.dll.config
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.csproj.AssemblyReference.cache
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.csproj.CoreCompileInputs.cache
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Debug\com.etoile.ws.borlette.server.csproj.CopyComplete

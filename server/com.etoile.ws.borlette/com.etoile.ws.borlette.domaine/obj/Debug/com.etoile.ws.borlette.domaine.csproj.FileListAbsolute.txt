@@ -1,0 +1,14 @@
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.domaine\bin\Debug\com.etoile.ws.borlette.domaine.dll
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.domaine\bin\Debug\com.etoile.ws.borlette.domaine.pdb
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.domaine\obj\Debug\ResolveAssemblyReference.cache
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.domaine\obj\Debug\com.etoile.ws.borlette.domaine.dll
+c:\users\benson\documents\visual studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.domaine\obj\Debug\com.etoile.ws.borlette.domaine.pdb
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.domaine\bin\Debug\com.etoile.ws.borlette.domaine.dll
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.domaine\bin\Debug\com.etoile.ws.borlette.domaine.pdb
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.domaine\obj\Debug\com.etoile.ws.borlette.domaine.dll
+E:\Mes projets importants\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.domaine\obj\Debug\com.etoile.ws.borlette.domaine.pdb
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.domaine\bin\Debug\com.etoile.ws.borlette.domaine.dll
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.domaine\bin\Debug\com.etoile.ws.borlette.domaine.pdb
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.domaine\obj\Debug\com.etoile.ws.borlette.domaine.csprojResolveAssemblyReference.cache
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.domaine\obj\Debug\com.etoile.ws.borlette.domaine.dll
+C:\Users\BELLERICE\Videos\lotto\server\com.etoile.ws.borlette\com.etoile.ws.borlette.domaine\obj\Debug\com.etoile.ws.borlette.domaine.pdb

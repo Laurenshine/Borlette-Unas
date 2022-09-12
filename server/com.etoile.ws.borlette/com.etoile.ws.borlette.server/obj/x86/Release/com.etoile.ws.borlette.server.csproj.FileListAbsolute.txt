@@ -1,0 +1,17 @@
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Release\com.etoile.ws.borlette.server.exe
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Release\com.etoile.ws.borlette.server.pdb
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Release\com.etoile.ws.borlette.application.dll
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Release\com.etoile.ws.borlette.dll.domaine.dll
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Release\com.etoile.ws.borlette.interfaces.dll
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Release\com.etoile.ws.borlette.dal.dll
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Release\com.etoile.ws.borlette.application.pdb
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Release\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Release\com.etoile.ws.borlette.dll.domaine.pdb
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\bin\Release\com.etoile.ws.borlette.dal.pdb
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Release\com.etoile.ws.borlette.server.Form1.resources
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Release\com.etoile.ws.borlette.server.Properties.Resources.resources
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Release\com.etoile.ws.borlette.server.exe
+C:\Users\BENSON\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.server\obj\x86\Release\com.etoile.ws.borlette.server.pdb

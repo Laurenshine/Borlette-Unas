@@ -1,0 +1,96 @@
+C:\Users\ED\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.Form1.resources
+C:\Users\ED\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.Properties.Resources.resources
+C:\Users\ED\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.csproj.GenerateResource.Cache
+C:\Users\ED\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.csprojResolveAssemblyReference.cache
+C:\Users\ED\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.presentetion.exe
+C:\Users\ED\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.presentetion.pdb
+C:\Users\ED\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.domaine.dll
+C:\Users\ED\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.interfaces.dll
+C:\Users\ED\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\ED\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.domaine.pdb
+C:\Users\ED\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.exe
+C:\Users\ED\Documents\Visual Studio 2010\Projects\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.pdb
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.exe
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.pdb
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.Form1.resources
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.Properties.Resources.resources
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.presentetion.exe
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.presentetion.pdb
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.dll.domaine.dll
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.interfaces.dll
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\BENSON\Desktop\blanc\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.dll.domaine.pdb
+C:\Users\ED\Desktop\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.exe
+C:\Users\ED\Desktop\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.pdb
+C:\Users\ED\Desktop\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.csprojResolveAssemblyReference.cache
+C:\Users\ED\Desktop\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.Form1.resources
+C:\Users\ED\Desktop\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.Properties.Resources.resources
+C:\Users\ED\Desktop\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.csproj.GenerateResource.Cache
+C:\Users\ED\Desktop\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.presentetion.exe
+C:\Users\ED\Desktop\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.presentetion.pdb
+C:\Users\ED\Desktop\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.interfaces.dll
+C:\Users\ED\Desktop\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.presentetion.exe
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.presentetion.pdb
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.dll.domaine.dll
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.interfaces.dll
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.dll.domaine.pdb
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.Form1.resources
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.Properties.Resources.resources
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.exe
+C:\Users\BENSON\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.pdb
+C:\Users\ED\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.exe
+C:\Users\ED\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.pdb
+C:\Users\ED\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.presentetion.exe
+C:\Users\ED\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.presentetion.pdb
+C:\Users\ED\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.interfaces.dll
+C:\Users\ED\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\ED\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.dll.domaine.pdb
+C:\Users\ED\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.csprojResolveAssemblyReference.cache
+C:\Users\ED\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.Form1.resources
+C:\Users\ED\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.Properties.Resources.resources
+C:\Users\ED\Desktop\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.csproj.GenerateResource.Cache
+D:\Ed documents\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.exe
+D:\Ed documents\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.pdb
+D:\Ed documents\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.presentetion.exe
+D:\Ed documents\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.presentetion.pdb
+D:\Ed documents\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.interfaces.dll
+D:\Ed documents\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.interfaces.pdb
+D:\Ed documents\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.dll.domaine.pdb
+D:\Ed documents\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.csprojResolveAssemblyReference.cache
+D:\Ed documents\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.Form1.resources
+D:\Ed documents\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.Properties.Resources.resources
+D:\Ed documents\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.csproj.GenerateResource.Cache
+E:\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.exe
+E:\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.pdb
+E:\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.presentetion.exe
+E:\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.presentetion.pdb
+E:\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.interfaces.dll
+E:\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.interfaces.pdb
+E:\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.dll.domaine.pdb
+E:\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.csprojResolveAssemblyReference.cache
+E:\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.Form1.resources
+E:\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.Properties.Resources.resources
+E:\Mes projets importants\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.csproj.GenerateResource.Cache
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.exe
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.pdb
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.presentetion.exe
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.presentetion.pdb
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.interfaces.dll
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.interfaces.pdb
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\com.etoile.ws.borlette.dll.domaine.pdb
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.Form1.resources
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.Properties.Resources.resources
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.csproj.GenerateResource.Cache
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.csproj.AssemblyReference.cache
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.csproj.CoreCompileInputs.cache
+C:\Users\BELLERICE\Videos\lotto\com.etoile.ws.borlette\com.etoile.ws.borlette.presentetion\obj\x86\Release\com.etoile.ws.borlette.presentetion.csproj.CopyComplete
